@@ -1,0 +1,10 @@
+./venv
+./.coverage
+./.pytest_cache
+venv
+.coverage
+.pytest_cache
+.idea
+/.idea
+
+
